@@ -44,3 +44,7 @@ You can add your own exposed properties to the Material Workshop tab by renaming
 
 # Downloads
 Downloads can be found in the releases section.
+
+# Development
+Sadly, GitHub does not allow file uploads of over 100mb and the MaterialLibrary files are over 200mb of data.
+In order to set up a development environment, clone this repo locally, and download a release. You can extract the release and use the HDR and `packs` folder from there in your development environment. 
